@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/goviedo/estudios/blockchain/solana/myepicproject/target/bpfel-unknown-unknown/release/build/typenum-c54b85978e05c7ba/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/goviedo/estudios/blockchain/solana/myepicproject/target/bpfel-unknown-unknown/release/build/typenum-c54b85978e05c7ba/out/op.rs

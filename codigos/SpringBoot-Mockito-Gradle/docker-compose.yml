@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  db:
+    image: container-registry.oracle.com/database/enterprise
+    container_name: oracle12
+    environment:
+      - ORACLE_EDITION=${EDITION}
+      - ORACLE_PDB=${PDB}
+    ports:
+      - '1522:1521'
+      - '5500:5500'
+    expose:
+      - '1521'
+      - '5500'
+    volumes:
+      - ./ora-data:/opt/oracle/oradata
+    ulimits:
+        nproc: 65535
+        nofile:
+          soft: 26677
+          hard: 46677

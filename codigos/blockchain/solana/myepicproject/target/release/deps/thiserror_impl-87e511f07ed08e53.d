@@ -1,0 +1,12 @@
+/home/goviedo/estudios/blockchain/solana/myepicproject/target/release/deps/libthiserror_impl-87e511f07ed08e53.so: /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/lib.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/ast.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/attr.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/expand.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/fmt.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/generics.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/prop.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/valid.rs
+
+/home/goviedo/estudios/blockchain/solana/myepicproject/target/release/deps/thiserror_impl-87e511f07ed08e53.d: /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/lib.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/ast.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/attr.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/expand.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/fmt.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/generics.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/prop.rs /home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/valid.rs
+
+/home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/lib.rs:
+/home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/ast.rs:
+/home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/attr.rs:
+/home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/expand.rs:
+/home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/fmt.rs:
+/home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/generics.rs:
+/home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/prop.rs:
+/home/goviedo/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.36/src/valid.rs:

@@ -1,0 +1,14 @@
+.claro {
+  background-color: aqua;
+  border-radius: 10px;
+}
+
+.oscuro {
+  background-color: blue;
+  border-radius: 10px;
+  color: white;
+}
+
+#entrada * {
+  padding: 10px;
+}

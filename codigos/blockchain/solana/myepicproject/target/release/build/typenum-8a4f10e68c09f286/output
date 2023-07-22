@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/goviedo/estudios/blockchain/solana/myepicproject/target/release/build/typenum-8a4f10e68c09f286/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/goviedo/estudios/blockchain/solana/myepicproject/target/release/build/typenum-8a4f10e68c09f286/out/op.rs

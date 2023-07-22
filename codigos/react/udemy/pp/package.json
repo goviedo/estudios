@@ -1,0 +1,26 @@
+{
+  "name": "parcel-react-tailwindcss-template",
+  "version": "1.0.0",
+  "description": "Minimal CodeSandbox template to use configurable Tailwind CSS with React v17",
+  "scripts": {
+    "start": "parcel ./public/index.html",
+    "build": "parcel ./public/index.html"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-react": "^7.12.5",
+    "parcel-bundler": "^1.12.4"
+  },
+  "keywords": [
+    "react",
+    "parcel",
+    "tailwind",
+    "tailwind css",
+    "tailwindcss"
+  ]
+}
