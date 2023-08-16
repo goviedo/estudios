@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "bf84427a00fb3500",
+        "id": "29e2208aca0ff4cf",
         "type": "tabs",
         "children": [
           {
-            "id": "98d4ee56c4095772",
+            "id": "ec8f5e6e24cb0a29",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "31e4adf8910d0d4c",
@@ -138,8 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8d15ca77a29d1cd",
+  "active": "ec8f5e6e24cb0a29",
   "lastOpenFiles": [
+    "saas-AI-NextJs13/ShadCdn.md",
+    "saas-AI-NextJs13/Intro.md",
+    "saas-AI-NextJs13",
+    "goals/rifa/Generador-Contenido.md",
+    "goals/rifa/Prototipo-Desarrollo.md",
+    "goals/rifa/Idea-General-Tareas.md",
+    "Pasted image 20230814180446.png",
+    "Pasted image 20230812102921.png",
+    "goals/rifa/Anexos..md",
+    "goals/rifa",
     "elixir/educative/function-call-pattern-matching.md",
     "elixir/educative/fac.md",
     "elixir/educative/Untitled.md",
@@ -148,7 +158,6 @@
     "elixir",
     "algorand/Pasted image 20230722171436.png",
     "elixit",
-    "Untitled",
     "algorand/bootcamp-ingles/episode-1.md",
     "Pasted image 20230722171436.png",
     "algorand/bootcamp-ingles",
