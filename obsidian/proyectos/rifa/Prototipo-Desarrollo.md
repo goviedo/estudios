@@ -59,6 +59,7 @@ docker-compose up -d
 
 ```shell
 mix ecto.create
+mix ecto.migrate
 ```
 
 # RUN del proyecto. 
@@ -82,4 +83,30 @@ mix test
 # User / pass creados
 
 * g@g.com / gonzalo.oviedo
+* PC de la pega
+	* goviedo.sevenit@gmail.com / gonzalo.oviedo
 
+# Ecto
+
+Si queremos hacer un cambio en la base de datos, tenemos que irnos a la carpeta
+
+```
+priv/repo/migrations
+```
+
+Modificar esas migraciones y colocar mix ecto.reset
+
+```bash
+mix ecto.reset
+```
+
+**IMPORTANTE**: Esto elimina TODO!.
+
+Debe existir otra forma de hacer cambios en la bd con la linea de comandos.
+# Errores
+
+Las migraciones no funcionan, referirse a:
+
+* https://elixirforum.com/t/pending-migration-error-try-running-mix-ecto-migrate-which-does-not-help/41138/8
+
+Esto no me da la respuesta, pero al menos me permiten entender un poco el proceso.
