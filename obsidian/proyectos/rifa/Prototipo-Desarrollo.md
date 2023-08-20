@@ -102,7 +102,8 @@ mix ecto.reset
 
 **IMPORTANTE**: Esto elimina TODO!.
 
-Debe existir otra forma de hacer cambios en la bd con la linea de comandos.
+Debe existir otra forma de hacer cambios en la bd con la linea de comandos. Ver Anexos, ahi sale como crear archivos de migracion y como hacerlos correr y las mejores practicas.
+
 # Errores
 
 Las migraciones no funcionan, referirse a:

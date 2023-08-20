@@ -9,3 +9,10 @@ Para generar diseños, es pagado, pero nos sirvio.
 * https://new.express.adobe.com/tools/convert-to-svg
 * https://convertio.co/
 * https://devhints.io/phoenix-migrations
+* 
+
+# Ecto
+
+* [Muy buen tutorial de ecto y migrations](https://fly.io/phoenix-files/anatomy-of-an-ecto-migration/)
+* [Recetas de migration, muy bueno](https://fly.io/phoenix-files/migration-recipes/)
+

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "29e2208aca0ff4cf",
+        "id": "a80fdbb1aff9ce15",
         "type": "tabs",
         "children": [
           {
-            "id": "ec8f5e6e24cb0a29",
+            "id": "afda91b76b7303bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "saas-AI-NextJs13/Intro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "saas-AI-NextJs13/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "saas-AI-NextJs13/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "saas-AI-NextJs13/Intro.md"
+              }
             }
           }
         ]
@@ -138,17 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec8f5e6e24cb0a29",
+  "active": "afda91b76b7303bf",
   "lastOpenFiles": [
+    "proyectos/rifa/Participante.md",
+    "proyectos/rifa/Prototipo-Desarrollo.md",
+    "proyectos/rifa/Modelado.md",
+    "proyectos/rifa/Anexos..md",
+    "proyectos/rifa/Ecto.md",
+    "saas-AI-NextJs13/images/Pasted image 20230816235802.png",
+    "saas-AI-NextJs13/images/Pasted image 20230816235125.png",
+    "saas-AI-NextJs13/images/Pasted image 20230816234955.png",
+    "saas-AI-NextJs13/images",
+    "elixir/images/Pasted image 20230726133850.png",
+    "elixir/images",
+    "goals/rifa/Generador-Contenido.md",
+    "goals/rifa/Anexos..md",
+    "saas-AI-NextJs13/Anexos.md",
+    "saas-AI-NextJs13/Autenticacion usando Clerk.md",
+    "Pasted image 20230816235802.png",
+    "Pasted image 20230816235125.png",
+    "saas-AI-NextJs13/Estructuras, Carpetas.md",
+    "Pasted image 20230816234955.png",
     "saas-AI-NextJs13/ShadCdn.md",
     "saas-AI-NextJs13/Intro.md",
     "saas-AI-NextJs13",
-    "goals/rifa/Generador-Contenido.md",
     "goals/rifa/Prototipo-Desarrollo.md",
     "goals/rifa/Idea-General-Tareas.md",
     "Pasted image 20230814180446.png",
     "Pasted image 20230812102921.png",
-    "goals/rifa/Anexos..md",
     "goals/rifa",
     "elixir/educative/function-call-pattern-matching.md",
     "elixir/educative/fac.md",
@@ -159,7 +184,6 @@
     "algorand/Pasted image 20230722171436.png",
     "elixit",
     "algorand/bootcamp-ingles/episode-1.md",
-    "Pasted image 20230722171436.png",
     "algorand/bootcamp-ingles",
     "algorand"
   ]

@@ -1,0 +1,20 @@
+- Users
+	- id
+	- email
+	- hashed_password
+	- cofirmed_at
+	- inserted_at
+	- updated_at
+- Sorteos
+	- id
+	- nombre
+	- descripcion
+	- user_id
+	- inserted_at
+	- updated_at
+* Participantes
+		- id
+		- sorteo_id
+		- numero
+		- nombre
+		- correo
