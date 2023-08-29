@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a80fdbb1aff9ce15",
+        "id": "70372b21a83247e9",
         "type": "tabs",
         "children": [
           {
-            "id": "afda91b76b7303bf",
+            "id": "7bca94b44067f073",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "saas-AI-NextJs13/Intro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5
   },
   "right": {
     "id": "31e4adf8910d0d4c",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "saas-AI-NextJs13/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "saas-AI-NextJs13/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "saas-AI-NextJs13/Intro.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,45 +138,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afda91b76b7303bf",
+  "active": "7bca94b44067f073",
   "lastOpenFiles": [
-    "proyectos/rifa/Participante.md",
-    "proyectos/rifa/Prototipo-Desarrollo.md",
-    "proyectos/rifa/Modelado.md",
-    "proyectos/rifa/Anexos..md",
-    "proyectos/rifa/Ecto.md",
-    "saas-AI-NextJs13/images/Pasted image 20230816235802.png",
-    "saas-AI-NextJs13/images/Pasted image 20230816235125.png",
-    "saas-AI-NextJs13/images/Pasted image 20230816234955.png",
-    "saas-AI-NextJs13/images",
-    "elixir/images/Pasted image 20230726133850.png",
-    "elixir/images",
-    "goals/rifa/Generador-Contenido.md",
-    "goals/rifa/Anexos..md",
-    "saas-AI-NextJs13/Anexos.md",
-    "saas-AI-NextJs13/Autenticacion usando Clerk.md",
-    "Pasted image 20230816235802.png",
-    "Pasted image 20230816235125.png",
-    "saas-AI-NextJs13/Estructuras, Carpetas.md",
-    "Pasted image 20230816234955.png",
-    "saas-AI-NextJs13/ShadCdn.md",
-    "saas-AI-NextJs13/Intro.md",
-    "saas-AI-NextJs13",
-    "goals/rifa/Prototipo-Desarrollo.md",
-    "goals/rifa/Idea-General-Tareas.md",
-    "Pasted image 20230814180446.png",
-    "Pasted image 20230812102921.png",
-    "goals/rifa",
-    "elixir/educative/function-call-pattern-matching.md",
-    "elixir/educative/fac.md",
-    "elixir/educative/Untitled.md",
-    "elixir/educative",
-    "elixir/Untitled",
-    "elixir",
-    "algorand/Pasted image 20230722171436.png",
-    "elixit",
-    "algorand/bootcamp-ingles/episode-1.md",
-    "algorand/bootcamp-ingles",
-    "algorand"
+    "Java/TechSkill/Solid-Principles/4.Liskov-Substitution-Principle-LSP.md",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230829141631.png",
+    "Java/TechSkill/Solid-Principles/7.Summary.md",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230829143953.png",
+    "Java/TechSkill/Solid-Principles/6.Dependency-Inversion-Principle-DIP.md",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230829143618.png",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230829142552.png",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230829142413.png",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230829141511.png",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230825165143.png",
+    "[SOLID.md",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230829141054.png",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230829141100.png",
+    "Java/TechSkill/Solid-Principles/images/Pasted image 20230825170415.png",
+    "Java/TechSkill/Solid-Principles/5.Interface-Segregation-Principle-ISP.md",
+    "Java/TechSkill/Solid-Principles/3.Open-Closed-Principle.md",
+    "Java/TechSkill/Solid-Principles/1.Intro-Solid.md",
+    "Java/TechSkill/Solid-Principles/2.SingleResponsability.md",
+    "Java/TechSkill/Solid-Principles/Conclusiones/Solid-Principles.md",
+    "Java/TechSkill/Solid-Principles/Conceptos/Coupling.md",
+    "Java/TechSkill/Solid-Principles/Conceptos/Cohesion.md",
+    "Java/TechSkill/Solid-Principles/Conclusiones",
+    "deco.md",
+    "proyectos/rifa/images",
+    "Java/TechSkill/Solid-Principles/Conceptos",
+    "Marketing-Negocios/Paso-Digital/Entel-Paso-Digital.md",
+    "Marketing-Negocios/Paso-Digital",
+    "PotenciaTuExitoEntrevistas/Notas.md",
+    "Marketing-Negocios/Paso-Digital/images",
+    "Marketing-Negocios",
+    "Java/TechSkill/Solid-Principles/images",
+    "Java/TechSkill/Misc/Intro.md",
+    "Java/TechSkill/Solid-Principles",
+    "Java/TechSkill/Misc",
+    "Java/TechSkill/Misc/Excel-Urls.md",
+    "Java/TechSkill/Misc/Apuntes-Cristian-Sanchez-Valoracion-Entrevista.md",
+    "Anexos/1. URL interesantes.md",
+    "Misc/Untitled.md",
+    "Misc",
+    "2023-08-24.md",
+    "Java/TechSkill/Java-SE-11-Developer-1z0-819/Packages-Imports.md",
+    "Java/TechSkill/Java-SE-11-Developer-1z0-819/Considerations.md",
+    "Java/TechSkill/Java-SE-11-Developer-1z0-819/Entiendo-Codigos-Examenes.md",
+    "Java/TechSkill/Java-SE-11-Developer-1z0-819/Java-SE-11-Developer-1z0-819-ocp-part-1.md",
+    "3d/3d-Developer-Portfolio/1.Intro.md"
   ]
 }
