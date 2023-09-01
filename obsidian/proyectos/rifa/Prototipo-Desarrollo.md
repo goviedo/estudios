@@ -2,7 +2,7 @@ Se puede ver aqui:
 
 https://gonzalooviedo.proto.io/editor/index.cfm?id=91d603f2-ba32-4d2a-a946-4319af46e49e
 
-![[Pasted image 20230812102921.png]]
+![[proyectos/rifa/images/Pasted image 20230812102921.png]]
 # Desarrollo
 
 ## Github
