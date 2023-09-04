@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c6f372bedcecd12d",
+        "id": "1403b00b4c5ce56c",
         "type": "tabs",
         "children": [
           {
-            "id": "76332eae331c99f7",
+            "id": "da1aed08eecd04e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/TechSkill/devops-cicd-integration-delivery/Continuous-Delivery/0.Intro-Delivery-Deploy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "245c0d44b60dd495",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
             }
           }
         ]
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/TechSkill/devops-cicd-integration-delivery/Continuous-Delivery/0.Intro-Delivery-Deploy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/TechSkill/devops-cicd-integration-delivery/Continuous-Delivery/0.Intro-Delivery-Deploy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/TechSkill/devops-cicd-integration-delivery/Continuous-Delivery/0.Intro-Delivery-Deploy.md"
+              }
             }
           }
         ]
@@ -138,34 +156,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76332eae331c99f7",
+  "active": "da1aed08eecd04e3",
   "lastOpenFiles": [
-    "proyectos/Vaadin-Proyecto-Observaciones-Ohiggins100/0.Instalacion-Intro.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuous-Delivery/1.Pain-Points.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuous-Delivery/2.Solved-Pain-Point-Continuos-Delivery.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuous-Delivery/3.Maturity-Continuous-Deployment.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/0.Intro.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuous-Delivery/0.Intro-Delivery-Deploy.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/4.Pipelines.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/3.Old-School-vs-CI.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/2.Continuos-Integration.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/1.Old-School-software-development-lifecycle.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/1.DevOps.md",
+    "Pasted image 20230904114555.png",
+    "Pasted image 20230904114541.png",
+    "Pasted image 20230904114443.png",
+    "Pasted image 20230904114326.png",
+    "Pasted image 20230904114103.png",
+    "Pasted image 20230904113951.png",
+    "Pasted image 20230904113922.png",
+    "Pasted image 20230904113816.png",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuos-Intgration/4.Pipelines.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuos-Intgration/3.Old-School-vs-CI.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuos-Intgration/2.Continuos-Integration.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuos-Intgration/1.Old-School-software-development-lifecycle.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuos-Intgration/1.1.Pain-Points.md",
+    "Java/TechSkill/devops-cicd-integration-delivery/images/Pasted image 20230904105954.png",
     "Pasted image 20230901102953.png",
-    "Pasted image 20230901102811.png",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuous-Delivery",
+    "Java/TechSkill/devops-cicd-integration-delivery/Continuos-Intgration",
+    "proyectos/Vaadin-Proyecto-Observaciones-Ohiggins100/0.Instalacion-Intro.md",
     "Java/TechSkill/Solid-Principles/5.Interface-Segregation-Principle-ISP.md",
     "proyectos/contabilidad/0.Estudios.md",
     "proyectos/Vaadin-Proyecto-Observaciones-Ohiggins100/imagenes",
-    "Java/TechSkill/devops-cicd-integration-delivery/images/Pasted image 20230831112705.png",
-    "Java/TechSkill/devops-cicd-integration-delivery/2.Continuos-Integration.md",
-    "Java/TechSkill/devops-cicd-integration-delivery/images/Pasted image 20230831110836.png",
-    "Java/TechSkill/devops-cicd-integration-delivery/images/Pasted image 20230831111820.png",
-    "proyectos/Vaadin-Proyecto-Observaciones-Ohiggins100/imagenes/Pasted image 20230831135522.png",
     "AWS/Apuntes/0.URLS.md",
     "proyectos/Vaadin-Proyecto-Observaciones-Ohiggins100",
     "AWS/Apuntes",
     "AWS",
-    "Java/TechSkill/devops-cicd-integration-delivery/4.Pipelines.md",
     "proyectos/contabilidad",
-    "Java/TechSkill/devops-cicd-integration-delivery/3.Old-School-vs-CI.md",
-    "Java/TechSkill/devops-cicd-integration-delivery/images/Pasted image 20230831112403.png",
-    "Java/TechSkill/devops-cicd-integration-delivery/images/Pasted image 20230831111931.png",
-    "Java/TechSkill/devops-cicd-integration-delivery/1.Old-School-software-development-lifecycle.md",
-    "Java/TechSkill/devops-cicd-integration-delivery/images/Pasted image 20230831102810.png",
-    "Java/TechSkill/devops-cicd-integration-delivery/images/Pasted image 20230831110135.png",
     "Java/TechSkill/devops-cicd-integration-delivery/1.Old-School/Untitled.md",
     "Java/TechSkill/devops-cicd-integration-delivery/1.Old-School",
-    "Java/TechSkill/devops-cicd-integration-delivery/0.Intro.md",
     "Java/TechSkill/devops-cicd-integration-delivery/images",
     "Java/TechSkill/Misc/Intro.md",
     "Java/TechSkill/devops-cicd-integration-delivery",
@@ -173,17 +203,6 @@
     "Java/TechSkill/Intro-Object-Oriented-Programming/4.Inheretance-Interface-Abstract-Classes.md",
     "Java/TechSkill/Intro-Object-Oriented-Programming/3.Application-Runtime.md",
     "Java/TechSkill/Intro-Object-Oriented-Programming/0.Intro.md",
-    "ingles/perficient/images",
-    "ingles/perficient/bycicle-parts.md",
-    "ingles/perficient/books.md",
-    "ingles/perficient",
-    "Java/TechSkill/Intro-Object-Oriented-Programming/2.Java-Stack-Heap-Reference-Instance-Variables-GarbageCollector.md",
-    "Java/TechSkill/Intro-Object-Oriented-Programming/1.Class-Objects.md",
-    "Java/TechSkill/Misc/Excel-Urls.md",
-    "Java/TechSkill/Misc/Apuntes-Cristian-Sanchez-Valoracion-Entrevista.md",
-    "Java/TechSkill/Solid-Principles/4.Liskov-Substitution-Principle-LSP.md",
-    "Java/TechSkill/Solid-Principles/7.Summary.md",
-    "Java/TechSkill/Solid-Principles/6.Dependency-Inversion-Principle-DIP.md",
-    "[SOLID.md"
+    "ingles/perficient/bycicle-parts.md"
   ]
 }
