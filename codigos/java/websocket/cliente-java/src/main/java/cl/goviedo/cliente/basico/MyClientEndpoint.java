@@ -2,6 +2,9 @@ package cl.goviedo.cliente.basico;
 
 import java.io.IOException;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import jakarta.websocket.ClientEndpoint;
 import jakarta.websocket.OnError;
 import jakarta.websocket.OnMessage;
@@ -10,26 +13,34 @@ import jakarta.websocket.Session;
 
 @ClientEndpoint
 public class MyClientEndpoint {
+	
+	private static Logger LOG = LoggerFactory.getLogger(MyClientEndpoint.class);
+	
+	String argumento = "";
+	
+	public MyClientEndpoint(String argumento) {
+		this.argumento = argumento;
+	}
+	
 	@OnOpen
     public void onOpen(Session session) {
-        System.out.println("Connected to endpoint: " + session.getBasicRemote());
+		LOG.info("Connected to endpoint: " + session.getBasicRemote());
         try {
-            String name = "Duke";
-            System.out.println("Sending message to endpoint: " + name);
-            session.getBasicRemote().sendText(name);
+            LOG.info("Enviando el siguiente mensaje al servidor: " + argumento);
+            session.getBasicRemote().sendText(argumento);
         } catch (IOException ex) {
-        	System.out.println("Error onOpen");
+        	LOG.error("Error en el evento OnOpen");
         }
     }
 
     @OnMessage
     public void processMessage(String message) {
-        System.out.println("Received message in client: " + message);
+        System.out.println(message);
         Client.messageLatch.countDown();
     }
 
     @OnError
     public void processError(Throwable t) {
-        t.printStackTrace();
+    	LOG.error("Error OnError"+t.getMessage());
     }
 }

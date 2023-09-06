@@ -1,16 +1,20 @@
 package cl.goviedo.websocket;
 
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.web.socket.CloseStatus;
 import org.springframework.web.socket.TextMessage;
 import org.springframework.web.socket.WebSocketSession;
 import org.springframework.web.socket.handler.TextWebSocketHandler;
 
 public class MyWebSocketHandler extends TextWebSocketHandler {
+	
+	private static Logger LOG = LoggerFactory.getLogger(MyWebSocketHandler.class);
 
     @Override
     public void afterConnectionEstablished(WebSocketSession session) {
-        System.out.println("WebSocket connection established.");
+       LOG.info("WebSocket connection established.");
         // You can perform actions when a connection is established.
     }
 
@@ -18,20 +22,19 @@ public class MyWebSocketHandler extends TextWebSocketHandler {
     protected void handleTextMessage(WebSocketSession session, TextMessage message) {
         // Handle incoming WebSocket messages
         String receivedMessage = message.getPayload();
-        System.out.println("Received message: " + receivedMessage);
+        LOG.info("Received message: " + receivedMessage);
         
-        // Send a response
-        String responseMessage = "El servidor recibio lo siguiente: "+receivedMessage;
+        // Send a response. LA RESPUESTA DEL SERVIDOR AL CLIENTE
         try {
-            session.sendMessage(new TextMessage(responseMessage));
+            session.sendMessage(new TextMessage(receivedMessage));
         } catch (Exception e) {
-            e.printStackTrace();
+        	LOG.error("handleTextMessage method error: "+e.getMessage());
         }
     }
 
     @Override
     public void afterConnectionClosed(WebSocketSession session, CloseStatus status) {
-        System.out.println("WebSocket connection closed.");
+    	LOG.info("WebSocket connection closed.");
         // You can perform actions when a connection is closed.
     }
 }
