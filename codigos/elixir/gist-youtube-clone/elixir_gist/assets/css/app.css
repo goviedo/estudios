@@ -1,0 +1,35 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* This file is for your main application CSS */
+@font-face {
+    font-family: "WorkSans";
+    src: url("/fonts/WorkSans-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "WorkSans";
+    src: url("/fonts/WorkSans-Bold.ttf");
+    font-weight: bold;
+    font-style: bold;
+}
+
+.round-image-padding {
+    border-radius: 50%;
+    border: 1.5px solid #FFFFFF;
+    padding: 4px;
+}
+
+.img-down-arrow::after {
+    content: "";
+    position: absolute;
+    right: -13px;
+    top: 45%;
+    transform: translateY(-50%);
+    border-width: 4px 4px 0 4px;
+    border-color: white transparent transparent transparent;
+    border-style: solid;
+}
+

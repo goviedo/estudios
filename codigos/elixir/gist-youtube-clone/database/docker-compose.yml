@@ -1,0 +1,15 @@
+version: '3.3'
+
+services:
+ gist:
+     image: postgres:9.6
+     container_name: gist
+     environment:
+         POSTGRES_USER: gist
+         POSTGRES_PASSWORD: ciglome1
+         PGDATA: /opt/pgsql/data
+     ports:
+         - 5430:5432
+     volumes:
+         - /opt/datadrive/pgdatagist:/opt/pgsql/data
+     privileged: true
