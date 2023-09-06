@@ -1,7 +1,7 @@
 const StompJs = require('@stomp/stompjs');
 
 const stompClient = new StompJs.Client({
-    brokerURL: 'ws://localhost:8080/websocket/gs-guide-websocket'
+	brokerURL: 'ws://localhost:6080/gs-guide-websocket'
 });
 
 //const stompClient = StompJs.client('ws://localhost:8080/gs-guide-websocket');
@@ -45,7 +45,7 @@ function disconnect() {
 function sendName() {
     stompClient.publish({
         destination: "/app/saludar",
-        body: JSON.stringify({'name': 'Gran Maestro Gonzalo Oviedo'})
+        body: JSON.stringify({'nombre': 'Gran Maestro Gonzalo Oviedo'})
     });
 }
 
