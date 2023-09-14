@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"20fc5b4abcdb585f","type":"text","text":"WHAT TO DO?","x":-155,"y":-440,"width":160,"height":60},
+		{"id":"010bb16214c89ee9","x":-600,"y":-700,"width":250,"height":60,"type":"text","text":"STREAM"},
+		{"id":"1247e09d1a72e52f","x":-275,"y":-700,"width":250,"height":60,"type":"text","text":"COMPORTAMIENTO"},
+		{"id":"c41dfabb52220eb0","type":"text","text":"Functional Approach","x":-420,"y":-900,"width":225,"height":50}
+	],
+	"edges":[
+		{"id":"997b24419884fc64","fromNode":"1247e09d1a72e52f","fromSide":"right","toNode":"20fc5b4abcdb585f","toSide":"top"},
+		{"id":"06cff2a7964ab67c","fromNode":"c41dfabb52220eb0","fromSide":"right","toNode":"1247e09d1a72e52f","toSide":"top"}
+	]
+}

@@ -1,1 +1,14 @@
-{}
+{
+	"nodes":[
+		{"id":"b2b700a593f77c6d","type":"text","text":"asdfasdf","x":-480,"y":-100,"width":250,"height":60},
+		{"id":"5da6e85f791b1739","type":"text","text":"asdfasdf","x":-230,"y":-240,"width":250,"height":50},
+		{"id":"3ef2e57b0e0fa1a8","type":"file","file":"Aprendisaje/images/facts-hechos.png","x":60,"y":-158,"width":400,"height":117,"color":"2"},
+		{"id":"14a579faac88c550","type":"text","text":"","x":-730,"y":160,"width":250,"height":60},
+		{"id":"ac71c6bb194600c0","type":"file","file":"0.Foco-Personal-Tareas/GOALS.md","x":-920,"y":-590,"width":280,"height":110}
+	],
+	"edges":[
+		{"id":"a345bc2f0c1247aa","fromNode":"b2b700a593f77c6d","fromSide":"right","toNode":"3ef2e57b0e0fa1a8","toSide":"left"},
+		{"id":"c84837a904944eca","fromNode":"b2b700a593f77c6d","fromSide":"top","toNode":"5da6e85f791b1739","toSide":"left"},
+		{"id":"90d093b4678c22d9","fromNode":"ac71c6bb194600c0","fromSide":"right","toNode":"b2b700a593f77c6d","toSide":"left"}
+	]
+}
