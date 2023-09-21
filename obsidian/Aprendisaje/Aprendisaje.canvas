@@ -3,8 +3,6 @@
 		{"id":"c0c4c363ede59cd7","type":"group","x":340,"y":-760,"width":469,"height":308,"color":"4","label":"Como-Aprender"},
 		{"id":"3ed0b8f1bb9d8bf3","type":"group","x":120,"y":-340,"width":440,"height":272,"color":"1","label":"Reglas-Tacticas"},
 		{"id":"613c8b35de25830c","type":"group","x":120,"y":-20,"width":400,"height":240,"color":"1","label":"Procastinacion"},
-		{"id":"5982c6914bb8cc31","type":"text","text":"Plan","x":350,"y":135,"width":120,"height":50},
-		{"id":"836a70e8c1b85347","type":"text","text":"Motivate","x":255,"y":20,"width":130,"height":50},
 		{"id":"a686c3b21d232270","type":"file","file":"Aprendisaje/images/piramide-aprendisaje.png","x":-187,"y":-880,"width":400,"height":231},
 		{"id":"de235dcddeb9c9d3","type":"text","text":"Agrupar Conceptos\nOrdenar - Reflexionar\nInterconectado - Conexiones entre Conceptos\nNo verbal - Imagenes\nDireccional - Causa y Efecto\nExpresivo - Colores - Ancho de Linea\n","x":-1110,"y":-466,"width":430,"height":180},
 		{"id":"4b718d8c7bcb9f24","type":"file","file":"Aprendisaje/images/agrupar.png","x":-1110,"y":-667,"width":140,"height":82},
@@ -14,14 +12,16 @@
 		{"id":"5bc084d0806dc931","type":"file","file":"Aprendisaje/images/expresivo.png","x":-1143,"y":-847,"width":162,"height":135},
 		{"id":"b683fe37c37da6b2","type":"file","file":"Aprendisaje/images/direccional.png","x":-957,"y":-563,"width":152,"height":75},
 		{"id":"f5c361de38fd6107","type":"file","file":"Aprendisaje/images/agrupado-sentido-interconectado-no-verbal-direccional-expresivo-imagenes.png","x":-537,"y":-744,"width":297,"height":175},
+		{"id":"7d7f78ff08e81ea9","type":"text","text":"1.- ENTENDER\n2.- MEMORIZAR\n3.- PRACTICA","x":640,"y":-943,"width":203,"height":127,"color":"4"},
+		{"id":"5982c6914bb8cc31","type":"text","text":"Plan","x":350,"y":135,"width":120,"height":50},
+		{"id":"836a70e8c1b85347","type":"text","text":"Motivate","x":255,"y":20,"width":130,"height":50},
 		{"id":"30acdfcfbcbab64d","type":"text","text":"Be Aware","x":140,"y":135,"width":145,"height":50},
-		{"id":"fe177ce65950d4f6","type":"text","text":"Metalearning 10%","x":640,"y":-250,"width":250,"height":60,"color":"1"},
 		{"id":"c7f8377df9898660","type":"file","file":"Aprendisaje/images/alerta-procatisnacion-planifica-motivate.png","x":140,"y":-308,"width":400,"height":44},
 		{"id":"1808d3fe148f681b","type":"file","file":"Aprendisaje/images/conceptos.png","x":360,"y":-740,"width":249,"height":56},
 		{"id":"604efa6784de3ea9","type":"file","file":"Aprendisaje/images/facts-hechos.png","x":362,"y":-560,"width":246,"height":72},
-		{"id":"ce3e26bdac0500a7","type":"file","file":"Aprendisaje/images/10-por-cien-metalearning.png","x":140,"y":-225,"width":399,"height":121},
 		{"id":"3c277804a92b1ebe","type":"file","file":"Aprendisaje/images/como-aplicar-procedimiento.png","x":560,"y":-635,"width":234,"height":50},
-		{"id":"7d7f78ff08e81ea9","type":"text","text":"1.- ENTENDER\n2.- MEMORIZAR\n3.- PRACTICA","x":640,"y":-943,"width":203,"height":127,"color":"4"}
+		{"id":"fe177ce65950d4f6","type":"text","text":"Metalearning 10%","x":640,"y":-250,"width":250,"height":60,"color":"1"},
+		{"id":"ce3e26bdac0500a7","type":"file","file":"Aprendisaje/images/10-por-cien-metalearning.png","x":140,"y":-225,"width":399,"height":121}
 	],
 	"edges":[
 		{"id":"8713d9cbd01488c6","fromNode":"de235dcddeb9c9d3","fromSide":"right","toNode":"f5c361de38fd6107","toSide":"left"},
