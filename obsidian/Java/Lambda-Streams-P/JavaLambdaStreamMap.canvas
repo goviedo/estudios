@@ -91,9 +91,9 @@
 		{"id":"609d806d2e7e9c63","x":-1905,"y":-2685,"width":250,"height":60,"type":"text","text":"Collectors"},
 		{"id":"e7bddf0c73e05a83","x":-2050,"y":-2823,"width":250,"height":60,"type":"text","text":"counting"},
 		{"id":"52dee68ea6e22ac8","x":-1772,"y":-2818,"width":220,"height":50,"type":"text","text":"maxBy(Compaator)"},
-		{"id":"7559674bb9f2fc72","x":-1970,"y":-3720,"width":1121,"height":200,"type":"file","file":"Pasted image 20230927104706.png"},
+		{"id":"7559674bb9f2fc72","x":-1970,"y":-3720,"width":1121,"height":200,"type":"file","file":"Java/Lambda-Streams-P/images/Pasted image 20230927104706.png"},
 		{"id":"ecb6188bf1e87cbc","x":-1608,"y":-2686,"width":250,"height":60,"type":"text","text":"mapping(Attribute, Collector.toList())"},
-		{"id":"995ed45330868685","x":-1107,"y":-3382,"width":1040,"height":160,"type":"file","file":"Pasted image 20230927104536.png"}
+		{"id":"995ed45330868685","x":-1107,"y":-3382,"width":1040,"height":160,"type":"file","file":"Java/Lambda-Streams-P/images/Pasted image 20230927104536.png"}
 	],
 	"edges":[
 		{"id":"d3a10e5334e3d9e4","fromNode":"c41dfabb52220eb0","fromSide":"left","toNode":"010bb16214c89ee9","toSide":"top","color":"1"},
