@@ -9,9 +9,9 @@ También arriba los training path asignados con las urls respectivas para el ref
 
 Sin embargo dejo capturas de pantalla para futuras referencias:
 
-![[Pasted image 20230824094210.png]]
+![[tech-skill-perficient-estado-arte-gonzalo-oviedo.png]]
 
-![[Pasted image 20230824094225.png]]
-![[Pasted image 20230824094235.png]]
+![[tech-skill-perficient-estado-arte-gonzalo-oviedo1.png]]
+![[tech-skill-perficient-estado-arte-gonzalo-oviedo2.png]]
 
 

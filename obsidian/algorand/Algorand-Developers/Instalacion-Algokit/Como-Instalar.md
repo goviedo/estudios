@@ -27,3 +27,6 @@ python3 -m pipx ensurepath
 # Error de pipx no se puede instalar.
 
 
+# Otra forma
+
+![[Pasted image 20231002122520.png]]
