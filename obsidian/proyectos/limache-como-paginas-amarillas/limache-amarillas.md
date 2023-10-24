@@ -83,3 +83,55 @@ export default defineConfig(() => {
 	};
 });
 ```
+
+# useTask and useSignal
+
+```javascript
+const tag = useSignal("");
+useTask$(
+	( { track } ) => {
+		track(
+			() => tag.value
+		);
+		if(tag.value.length>3)
+			console.log(tag.value);
+	}
+);
+
+<input
+type="text"
+placeholder="Escribe tu búsqueda"
+class="flex-grow px-4 py-2 rounded-l-lg focus:outline-none"
+value={tag.value}
+onKeyDown$={
+	event => tag.value += event.key
+}
+<button onClick$={
+		()=> tag.value="Panaderia"
+	}
+	class="menu-item"
+>
+```
+
+## CSS para el dropdown menu con la flecha
+
+```css
+.menu-item {
+	@apply block text-sm font-extralight py-1 px-1;
+}
+.menu-item:hover {
+	@apply hover:text-amber-400
+}
+.dropdown-menu-item-arrow::before {
+	content: "";
+	position: absolute;
+	top: -5px;
+	right: calc(95% - 12px);
+	border-width: 0 5px 5px 5px;
+	border-style: dotted;
+	border-color: transparent transparent yellowgreen transparent;
+}
+```
+
+Todo es casi se explica solo,  es importante rescatar que el useTask$ por si solo define el track, no se define en ningun lado y hace seguimiento del valor tag.
+

@@ -88,7 +88,6 @@
 		{"id":"97e20085d630e588","type":"text","text":"dropWhile","x":-1939,"y":-1539,"width":155,"height":50},
 		{"id":"0669fe25bfa92c59","type":"text","text":"Compartor.comparing","x":-1858,"y":-1969,"width":250,"height":60},
 		{"id":"37dc7a6f8c833270","type":"text","text":"skip","x":-1947,"y":-1821,"width":111,"height":55},
-<<<<<<< Updated upstream
 		{"id":"428ca933f168b094","type":"text","text":"thenComparing\n","x":-2086,"y":-2362,"width":250,"height":60},
 		{"id":"b6a6d81f212d298a","type":"file","file":"Java/Lambda-Streams-P/images/lambda.groupingBy.png","x":-1961,"y":-3400,"width":817,"height":178},
 		{"id":"eec7536c96244b60","type":"file","file":"Java/Lambda-Streams-P/images/groupingByAndCounting.png","x":-1970,"y":-3160,"width":895,"height":120},
@@ -98,15 +97,13 @@
 		{"id":"52dee68ea6e22ac8","x":-1772,"y":-2818,"width":220,"height":50,"type":"text","text":"maxBy(Compaator)"},
 		{"id":"7559674bb9f2fc72","x":-1970,"y":-3720,"width":1121,"height":200,"type":"file","file":"Java/Lambda-Streams-P/images/Pasted image 20230927104706.png"},
 		{"id":"ecb6188bf1e87cbc","x":-1608,"y":-2686,"width":250,"height":60,"type":"text","text":"mapping(Attribute, Collector.toList())"},
-		{"id":"995ed45330868685","x":-1107,"y":-3382,"width":1040,"height":160,"type":"file","file":"Java/Lambda-Streams-P/images/Pasted image 20230927104536.png"}
-=======
+		{"id":"995ed45330868685","x":-1107,"y":-3382,"width":1040,"height":160,"type":"file","file":"Java/Lambda-Streams-P/images/Pasted image 20230927104536.png"},
 		{"id":"d7d487ffb6fa2674","type":"text","text":"sorted","x":-1760,"y":-1820,"width":167,"height":51},
 		{"id":"881ec24615ac8668","type":"file","file":"Java/Lambda-Streams-P/images/interface-functional-Function.png","x":-405,"y":-1456,"width":319,"height":50},
 		{"id":"a50fe43f4a0973d3","type":"text","text":"distinct()\nsorted()\nmap(function)\nfilter(boolean-predicate)","x":-558,"y":-1995,"width":268,"height":120,"color":"3"},
 		{"id":"1fe1ebcf19693037","type":"text","text":"INTERMEDIOS","x":-490,"y":-2110,"width":170,"height":60,"color":"3"},
 		{"id":"131ee8023a5c83cf","type":"text","text":"TERMINALES","x":-264,"y":-2110,"width":160,"height":60,"color":"2"},
 		{"id":"27f6b2d4292a81ab","type":"text","text":"forEach\ncollect\nreduce","x":-225,"y":-1990,"width":127,"height":120,"color":"2"}
->>>>>>> Stashed changes
 	],
 	"edges":[
 		{"id":"d3a10e5334e3d9e4","fromNode":"c41dfabb52220eb0","fromSide":"left","toNode":"010bb16214c89ee9","toSide":"top","color":"1"},
