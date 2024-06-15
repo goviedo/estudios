@@ -1,0 +1,34 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:15432/eazybank
+    driverClassName: org.postgresql.Driver
+    username: goviedo
+    password: 1ciglome
+  jpa:
+    database: postgresql
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+    defer-datasource-initialization: true
+  sql:
+    init:
+      platform: postgresql
+      mode: always
+  web:
+    locale: es_CL
+  security:
+    user:
+      name: goviedo
+      password: goviedo
+logging:
+  level:
+    cl: INFO
+    org:
+      hibernate: WARN
+      spring:
+        framework:
+          web: WARN
+

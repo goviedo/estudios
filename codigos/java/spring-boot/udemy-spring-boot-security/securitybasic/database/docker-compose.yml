@@ -1,0 +1,14 @@
+version: '3.3'
+
+services:
+ limacheamarillas:
+     image: postgres:9.6
+     container_name: spsec
+     environment:
+         POSTGRES_PASSWORD: postgres
+         PGDATA: /opt/pgsql/data
+     ports:
+         - "127.0.0.1:15432:5432"
+     volumes:
+         - /opt/datadrive/spsec:/opt/pgsql/data
+     privileged: true
